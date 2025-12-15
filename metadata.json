@@ -1,0 +1,9 @@
+{
+  "name": "Gemini Voice Friend",
+  "description": "A real-time voice conversational AI friend using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture"
+  ]
+}
